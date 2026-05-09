@@ -4,7 +4,7 @@ This project involves cleaning and transforming e-commerce data in Power BI usin
 - **Data Cleaning** – Ensure data accuracy, consistency, and completeness by handling null values, correcting data types, removing duplicates, and standardizing formats.
 - **Data Modelling** – Build an optimized star schema with well-defined relationships to support efficient analysis and reporting.
 ## Power BI File
-https://drive.google.com/drive/folders/1zfPPAqUSu3Qm0mRefUBoPMmtse37PcWj?usp=drive_link
+Data Cleaning and Data Modelling: https://drive.google.com/drive/folders/1zfPPAqUSu3Qm0mRefUBoPMmtse37PcWj?usp=drive_link
 ## Data Cleaning Process
 Data cleaning was performed using Power Query in Power BI to ensure consistency, accuracy, and usability of the dataset.
 <img width="1888" height="958" alt="Screenshot 2026-05-09 153340" src="https://github.com/user-attachments/assets/72ea15b7-1caa-43fb-b19e-51e8e8c159be" />
